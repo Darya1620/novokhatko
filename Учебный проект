@@ -1,0 +1,29 @@
+<!DOCTYPE html>  
+<html lang="ru">  
+  <head>  
+    <meta charset="UTF-8" />  
+    <title>Lenni Art</title> 
+  </head>
+  <body>
+  </header>
+  <a href=index.html>
+  <img src "" alt="">
+  </a>
+  <nav>
+  <a href= "">Мероприятия</a>
+  <a href= "">Блог</a>
+  <a href= "">О нас</a>
+  </nav>
+  </header>
+  <main>
+  <div>
+    <h1>Арт - пространсво</h1> 
+	</div>
+	<section>
+	<h2>Я хочу:</h2>
+	
+    </section> 
+	</main>
+	<footer></footer>
+  </body>
+</html>
